@@ -1,6 +1,6 @@
 <?php
 
-//Question 4
+//Question 4 (Use a php online compiler to enter STDIN (example: Thank you for your comment and your participation))
 
 $string = trim(fgets(STDIN));
 $array = explode(' ', $string);
